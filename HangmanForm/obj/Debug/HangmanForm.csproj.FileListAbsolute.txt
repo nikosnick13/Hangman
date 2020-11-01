@@ -1,0 +1,10 @@
+C:\Users\nikolas\OneDrive\Desktop\c# projects\HangmanForm\bin\Debug\HangmanForm.exe.config
+C:\Users\nikolas\OneDrive\Desktop\c# projects\HangmanForm\bin\Debug\HangmanForm.exe
+C:\Users\nikolas\OneDrive\Desktop\c# projects\HangmanForm\bin\Debug\HangmanForm.pdb
+C:\Users\nikolas\OneDrive\Desktop\c# projects\HangmanForm\obj\Debug\HangmanForm.csprojAssemblyReference.cache
+C:\Users\nikolas\OneDrive\Desktop\c# projects\HangmanForm\obj\Debug\HangmanForm.HangmanForm.resources
+C:\Users\nikolas\OneDrive\Desktop\c# projects\HangmanForm\obj\Debug\HangmanForm.Properties.Resources.resources
+C:\Users\nikolas\OneDrive\Desktop\c# projects\HangmanForm\obj\Debug\HangmanForm.csproj.GenerateResource.cache
+C:\Users\nikolas\OneDrive\Desktop\c# projects\HangmanForm\obj\Debug\HangmanForm.csproj.CoreCompileInputs.cache
+C:\Users\nikolas\OneDrive\Desktop\c# projects\HangmanForm\obj\Debug\HangmanForm.exe
+C:\Users\nikolas\OneDrive\Desktop\c# projects\HangmanForm\obj\Debug\HangmanForm.pdb
